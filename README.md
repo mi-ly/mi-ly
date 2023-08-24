@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
-- 👨‍💻 My best projects are available at [https://vladislav-lychak.netlify.app/](https://vladislav-lychak.netlify.app/)
+- 👨‍💻 My personal website [https://vladislav-lychak.netlify.app/](- click here)
 
 - 📫 How to reach me **lycakvladislav@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing](https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing)
+- 📄 My resume [https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing](- click here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
