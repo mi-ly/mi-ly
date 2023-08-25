@@ -13,7 +13,7 @@ Passionate front-end developer based in the US. I thrive on crafting captivating
 
 📫 How to Reach Me:
 - Email: lycakvladislav@gmail.com
-- LinkedIn: [Vladislav on LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
 
 📄 My Resume:
 - Learn more about my journey and skills in my [Resume](https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing).
