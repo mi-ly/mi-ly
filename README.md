@@ -1,12 +1,9 @@
 ## Hi, I'm Vlad 👋
 
-Passionate front-end developer based in the US. I thrive on crafting captivating web experiences that merge design and code.
-
-🔭 Currently Working On:
-- Building a dynamic website for food bloggers, blending aesthetics with functionality.
+Passionate full-stack developer based in the US. I thrive on crafting captivating web experiences that merge design and code.
 
 🌱 Currently Learning:
-- Exploring Next.js and TypeScript to enhance my toolkit and build more robust applications.
+- Exploring PostgreSQL and Express.js to enhance my toolkit and build more robust applications.
 
 👨‍💻 My Personal Website:
 - Discover my portfolio, projects, and insights on my [Personal Website](https://vladislav-lychak.netlify.app/).
