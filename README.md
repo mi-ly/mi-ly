@@ -8,7 +8,7 @@ Passionate full-stack developer based in the US. I thrive on crafting captivatin
 📄 My Resume:
 - Learn more about my journey and skills in my [Resume](https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing).
   
-  📫 How to Reach Me:
+📫 How to Reach Me:
 - Email: lycakvladislav@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/vladislav-lychak/)
 
