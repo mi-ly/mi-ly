@@ -3,7 +3,7 @@
 Passionate full-stack developer based in the US. I thrive on crafting captivating web experiences that merge design and code.
 
 👨‍💻 My Personal Website:
-- Discover my portfolio, projects, and insights on my [Personal Website](https://vladislav-lychak.netlify.app/).
+- Discover my portfolio, projects, and insights on my [Personal Website](https://lychak-vlad.dev/).
 
 📄 My Resume:
 - Learn more about my journey and skills in my [Resume](https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing).
