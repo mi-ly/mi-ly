@@ -6,7 +6,7 @@ Passionate full-stack developer based in the US. I thrive on crafting captivatin
 - Discover my portfolio, projects, and insights on my [Personal Website](https://lychak-vlad.dev/).
 
 📄 My Resume:
-- Learn more about my journey and skills in my [Resume](https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing).
+- Learn more about my journey and skills in my [Resume]([https://drive.google.com/file/d/1dcmlLpxc7qDROWeBuT2twRCJ6ShvF8I8/view?usp=sharing](https://drive.google.com/file/d/1aDwv0Cz1N8AWze4Ou4gJTNU4p4pYaL6q/view?usp=sharing)).
   
 📫 How to Reach Me:
 - Email: lycakvladislav@gmail.com
