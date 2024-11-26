@@ -1,4 +1,4 @@
-## Hi, I'm Vlad 👋
+## Hi, I'm Mike 👋
 
 Passionate full-stack developer based in the US. I thrive on crafting captivating web experiences that merge design and code.
 
