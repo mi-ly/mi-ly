@@ -11,4 +11,4 @@ Passionate full-stack developer based in the US. I thrive on crafting captivatin
 
 Let's connect and collaborate to shape the web's future together!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lychakvlad&show_icons=true&locale=en" alt="lychakvlad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mi-ly&show_icons=true&locale=en" alt="mi-ly" /></p>
