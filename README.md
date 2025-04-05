@@ -1,4 +1,4 @@
-## Hi, I'm Mike 👋
+## Hi, I'm Vlad 👋
 
 Passionate full-stack software developer based in the US. I thrive on crafting captivating web experiences that merge design and code.
 
@@ -7,4 +7,4 @@ Passionate full-stack software developer based in the US. I thrive on crafting c
   
 📫 How to Reach Me:
 - Email: lycakvladislav@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/mike-lychak/)
+- [LinkedIn](https://www.linkedin.com/in/vlad-lychak/)
